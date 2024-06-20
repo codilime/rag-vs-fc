@@ -1,0 +1,4 @@
+.env
+db/*
+example_data
+venv
