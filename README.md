@@ -43,8 +43,8 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 
 ## External free libraries used
 - [openai](https://platform.openai.com/docs/libraries)
-- [python-dotenv~=1.0.1](https://pypi.org/project/python-dotenv/1.0.1/)
-- [langchain~=0.2.1](https://pypi.org/project/langchain/0.2.1/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/1.0.1/)
+- [langchain](https://pypi.org/project/langchain/0.2.1/)
 - [langchain-community](https://pypi.org/project/langchain-community/)
 - [pypdf](https://pypi.org/project/pypdf/)
 - [simple_salesforce](https://pypi.org/project/simple-salesforce/)
